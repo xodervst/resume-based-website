@@ -1,0 +1,29 @@
+html{
+    scroll-behavior: smooth;
+}
+
+header{
+    padding: 5px 0px;
+}
+.menu li a{
+    font-weight: bold;
+    margin-left: 25px;
+}
+
+.name-section{
+    background-color: #0095da;
+    padding: 100px 0px;
+}
+
+.name-section h1{
+    color: white;
+    font-weight: bold;
+    font-size: 70px;
+    padding-top: 30px;
+}
+
+.border-outer .part-border{
+    width: 150px;
+    height: 4px;
+    bac
+}
